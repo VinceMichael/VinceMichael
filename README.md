@@ -44,8 +44,6 @@
 
 **GitHub pulse**
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=VinceMichael&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinceMichael&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
 
 <img src="https://streak-stats.demolab.com/?user=VinceMichael&theme=tokyonight&hide_border=true" alt="Streak" />
 
